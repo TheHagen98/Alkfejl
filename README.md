@@ -6,33 +6,33 @@
 
 
 
- Regisztráció
+* Regisztráció
 
- Belépes
+* Belépes
 
- Bevásárlólista létrehozása
+* Bevásárlólista létrehozása
 
- Bevásárlólista szerkesztése
+* Bevásárlólista szerkesztése
 
- Bevásárlólista törlése
+* Bevásárlólista törlése
 
- Bevásárlólista listázása (Boltban / Kiszállítás alatt / Kiszállítva)
+* Bevásárlólista listázása (Boltban / Kiszállítás alatt / Kiszállítva)
 
- Bevásárlólista véglegesítése
-
-
-
-Termékek kedvencekbe tétele
-
- Boltok kedvencekbe tétele
+* Bevásárlólista véglegesítése
 
 
 
-Áruk és boltok megtekintése (Regisztráció nélkül is)
+* Termékek kedvencekbe tétele
+
+* Boltok kedvencekbe tétele
 
 
 
-Felhasználók blokkolása (Adminként) [Ha sokszor nem veszi át a temréket]
+* Áruk és boltok megtekintése (Regisztráció nélkül is)
+
+
+
+* Felhasználók blokkolása (Adminként) [Ha sokszor nem veszi át a temréket]
 
 
 
@@ -41,13 +41,13 @@ Felhasználók blokkolása (Adminként) [Ha sokszor nem veszi át a temréket]
  # Nem funkcionális követelmények:
 
 
- Felhasználóbarát, letisztult felület
+ * Felhasználóbarát, letisztult felület
 
- Jelszavas azonosítás
+ * Jelszavas azonosítás
  
- Jelszavak biztonságos tárolása
+ * Jelszavak biztonságos tárolása
 
- Keresési eredmények gyors megjelenítése
+ * Keresési eredmények gyors megjelenítése
 
 
 
