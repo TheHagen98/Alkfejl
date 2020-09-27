@@ -100,3 +100,6 @@ Vendég: Nem regisztrált látogató, megtekintheti a boltok és termékek list�
 
 # Flowchart
 ![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/flowchat.png)
+
+# Usecase
+![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/Use-Case.png)
