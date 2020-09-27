@@ -57,7 +57,9 @@ Felhasználók blokkolása (Adminként) [Ha sokszor nem veszi át a temréket]
 
 Vendég: Nem regisztrált látogató, megtekintheti a boltok és termékek listáját
 
- Tag: Regisztrált és bejelentkezett látogató, megtekintheti a boltok és termékek listáját bevásárló listát hozhat létre, módosíthat, törölhet, véglegesíthet, hozzáadhatja a         boltokat és árukat a kedvencekhez
+Tag: Regisztrált és bejelentkezett látogató, megtekintheti a boltok és termékek listáját bevásárló listát hozhat létre, módosíthat, törölhet, véglegesíthet, hozzáadhatja a         boltokat és árukat a kedvencekhez
+
+Admin: Blokkolhat egy felhasználót
 
 # Táblák
 ![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/vJPEG.jpg)
@@ -67,4 +69,20 @@ Vendég: Nem regisztrált látogató, megtekintheti a boltok és termékek list�
 
 # Usecase
 ![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/Use-Case.png)
+
+# Fejlesztői környezet beállítása:
+Dependencies:
+org.springframework.boot
+com.h2database
+org.projectlombok
+org.junit.vintage
+
+Használt technológiák:
+Java
+Spring
+Lombok
+Maven
+SQL
+Angular
+Bootstrap
 
