@@ -1,6 +1,7 @@
 # Alkfejl
 # Leírás:
 
+Egy bevásárló listákat kezelő és házhozszállítási funkcióval rendelkező program, amiben a regisztrált felhasználó szabadon hozhat létre új listát, szerkesztheti, és elmentheti kedvenc üzleteit és árucikkeit.
 
 # Funkcionális követelmények:
 
