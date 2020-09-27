@@ -72,17 +72,29 @@ Admin: Blokkolhat egy felhasználót
 
 # Fejlesztői környezet beállítása:
 Dependencies:
+
 org.springframework.boot
+
 com.h2database
+
 org.projectlombok
+
 org.junit.vintage
 
 Használt technológiák:
+
 Java
+
 Spring
+
 Lombok
+
 Maven
+
 SQL
+
 Angular
+
 Bootstrap
+
 
