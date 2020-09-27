@@ -59,11 +59,12 @@ Vendég: Nem regisztrált látogató, megtekintheti a boltok és termékek list�
 
  Tag: Regisztrált és bejelentkezett látogató, megtekintheti a boltok és termékek listáját bevásárló listát hozhat létre, módosíthat, törölhet, véglegesíthet, hozzáadhatja a         boltokat és árukat a kedvencekhez
 
+# Táblák
+![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/vJPEG.jpg)
+
 # Flowchart
 ![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/flowchat.png)
 
 # Usecase
 ![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/Use-Case.png)
 
-# Táblák
-![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/vJPEG.jpg)
