@@ -2,45 +2,6 @@
 # Leírás:
 
 
-
-
-
- # Táblák:
-
-
-
- Termék
-
- Bolt
-
- Felhasználó
-
- Futárszolgálatok
-
- Bevásrló lista
-
-
-
-
-
- Termék - Bolt (Sok - Sok)
-
- Bolt - Futárszolgálatok (Sok - Sok)
-
-
-
- User - Kedvenc Boltok (Egy - Sok)
-
- User - Kedvenc Termékek (Egy - Sok)
-
- User - Bevásrló listája (Egy - Sok)
-
-
-
-Bevásrló - Termék (Egy - Sok)
-
-
-
 # Funkcionális követelmények:
 
 
@@ -103,3 +64,6 @@ Vendég: Nem regisztrált látogató, megtekintheti a boltok és termékek list�
 
 # Usecase
 ![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/Use-Case.png)
+
+# Táblák
+![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/vJPEG.jpg)
