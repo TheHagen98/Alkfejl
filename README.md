@@ -9,7 +9,7 @@
 
 
 
-Termék
+ Termék
 
  Bolt
 
@@ -29,7 +29,7 @@ Termék
 
 
 
-User - Kedvenc Boltok (Egy - Sok)
+ User - Kedvenc Boltok (Egy - Sok)
 
  User - Kedvenc Termékek (Egy - Sok)
 
@@ -45,13 +45,11 @@ Bevásrló - Termék (Egy - Sok)
 
 
 
-Regisztráció
+ Regisztráció
 
  Belépes
 
-
-
-Bevásárlólista létrehozása
+ Bevásárlólista létrehozása
 
  Bevásárlólista szerkesztése
 
@@ -85,7 +83,7 @@ Felhasználók blokkolása (Adminként) [Ha sokszor nem veszi át a temréket]
  Felhasználóbarát, letisztult felület
 
  Jelszavas azonosítás
-
+ 
  Jelszavak biztonságos tárolása
 
  Keresési eredmények gyors megjelenítése
@@ -98,4 +96,7 @@ Felhasználók blokkolása (Adminként) [Ha sokszor nem veszi át a temréket]
 
 Vendég: Nem regisztrált látogató, megtekintheti a boltok és termékek listáját
 
- Tag: Regisztrált és bejelentkezett látogató, megtekintheti a boltok és termékek listáját bevásárló listát hozhat létre, módosíthat, törölhet, véglegesíthet, hozzáadhatja a boltokat és árukat a kedvencekhez
+ Tag: Regisztrált és bejelentkezett látogató, megtekintheti a boltok és termékek listáját bevásárló listát hozhat létre, módosíthat, törölhet, véglegesíthet, hozzáadhatja a         boltokat és árukat a kedvencekhez
+
+# Flowchart
+![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/flowchat.png)
