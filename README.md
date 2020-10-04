@@ -72,6 +72,14 @@ Egy bevásárló listákat kezelő és házhozszállítási funkcióval rendelke
 ## Admin:
 * Blokkolhat egy felhasználót
 
+# Szakterületi fogalomjegyzék
+
+* Áru: A bevásárlólista elemei, bolti áruk
+
+* Bolt: Áruk találhatók benne, egy kiszállítócég tartozik hozzá
+
+* Bevásárlólista: A felhasználó által létrehozott lista amelyen található áruk kiszálításra kerülnek
+
 # Táblák
 ![Image of Yaktocat](https://github.com/TheHagen98/Alkfejl/blob/master/vJPEG.jpg)
 
